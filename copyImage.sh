@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo ./scripts/copyImage.sh
+sudo ./scripts/copyzImage.sh
